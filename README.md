@@ -15,8 +15,11 @@ programados, garantizando la máxima seguridad y confiabilidad en las
 transacciones sin realizar cortes de caja en el equipo, ya que el control operativo y
 financiero se gestionará exclusivamente desde el panel web.
 
+
 ## Funcionalidades principales
 
 La aplicación del Dispositivo validador está diseñada para ejecutar de forma
 autónoma, continua y segura las operaciones de recaudo, validación de tarifas y
 transmisión de datos hacia el backend.
+
+mie 2
