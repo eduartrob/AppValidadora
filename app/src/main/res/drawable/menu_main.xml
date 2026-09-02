@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_user"
+        android:title="Usuario"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+    android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:title="Actualizar tarjetas"
+        android:icon="@android:drawable/ic_menu_rotate"
+    android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Cerrar sesión"
+        android:icon="@android:drawable/ic_lock_power_off"
+    android:showAsAction="never" />
+</menu>
